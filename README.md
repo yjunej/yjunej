@@ -1,4 +1,3 @@
-* SKKU SME&CS Junior 2nd Semester (2020.09 ~ )
 * 42 Seoul Cadet (2020.08 ~ )
 * Google Machine Learning Bootcamp (2020.10 ~ )<br>
 ***
