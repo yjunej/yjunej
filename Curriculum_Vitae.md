@@ -11,7 +11,7 @@
 ### Sungkyunkwan University
 
 Double Major in System Management Engineering and Computer Science<br>
-Mar 2016 – current Senior 1th semester<br>
+Mar 2016 ~ current Senior 1th semester<br>
 Expected graduation date - Feb 2022<br>
 
 - Cumulative GPA: 3.76 / 4.5
