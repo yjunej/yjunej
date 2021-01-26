@@ -55,15 +55,15 @@ Sophomore 2nd semester
 
 ## Project & Competition
 - [SKKU Cafe Rating Web (2019.09)](https://github.com/hectic97/SKKU-Cafe-Web/blob/master/README.md)
-- [Dacon 천체 유형 분류 대회 (2020.02, rank: 상위 19%)] (https://github.com/hectic97/Trace/tree/master/Data_AI_Competition/SDSS)
+- [Dacon 천체 유형 분류 대회 (2020.02, rank: 상위 19%)](https://github.com/hectic97/Trace/tree/master/Data_AI_Competition/SDSS)
 - [Item-based 추천 알고리즘을 사용한 고령층을 위한 국내영화 추천 시스템 (2020.03)](https://github.com/hectic97/Korean-Movie-Recommender)
-- [PoAIt (언어모델을 활용한 한국 시를 쓰는 AI 시인) (2020.04)] (https://github.com/hectic97/Korean-poetry-generator)
-- [SKKU AI-Project Image Classification (rank: 1/44) (2020.06)] (https://github.com/hectic97/Imbalanced-cifar-100-classification) 
-- [2020 SKT 행복 인사이트 (2020.06)] (https://github.com/hectic97/Trace/blob/master/Data_AI_Competition/AOAS_SK_insight.pdf)
+- [PoAIt (언어모델을 활용한 한국 시를 쓰는 AI 시인) (2020.04)](https://github.com/hectic97/Korean-poetry-generator)
+- [SKKU AI-Project Image Classification (rank: 1/44) (2020.06)](https://github.com/hectic97/Imbalanced-cifar-100-classification) 
+- [2020 SKT 행복 인사이트 (2020.06)](https://github.com/hectic97/Trace/blob/master/Data_AI_Competition/AOAS_SK_insight.pdf)
 - [2020 AngelHack Seoul Hackaton: 해커톤 대상 온라인 자동 팀매칭 솔루션 (2020.06)](https://github.com/hectic97/AngelHack_web)
 - Kaggle Siim Competition (rank: 1770/3308 2020.08)
 - [Pytorch DCGAN (2020.12)]
-- [빅콘테스트: SARIMAX 시계열 예측과 머신러닝 모델의 특성 중요도를 활용한 코로나 시대 위험 산업군 도출 (2021.01)] (https://github.com/hectic97/Kaggle_Competition/blob/master/bigcontest2020/AOAS_MAIN_PDF.pdf)
+- [빅콘테스트: SARIMAX 시계열 예측과 머신러닝 모델의 특성 중요도를 활용한 코로나 시대 위험 산업군 도출 (2021.01)](https://github.com/hectic97/Kaggle_Competition/blob/master/bigcontest2020/AOAS_MAIN_PDF.pdf)
 - Dacon LG 불편예지 예측 대회 (2021.01, 현재 rank: 81/1300)
 
 <br>
