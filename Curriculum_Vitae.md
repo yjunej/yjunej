@@ -1,5 +1,7 @@
 # Curriculum Vitae (Voyager X Internship)
 
+
+
 ## Personal Data
 - Name - 정영준 (Young-June Jung)
 - Birth Date - 11/11/1997 (25 years old)
@@ -7,6 +9,7 @@
 - Email - hecticlife@g.skku.edu
 - Github - https://github.com/hectic97
 - Blog - https://dlaiml.tistory.com/
+- 자기소개서 
 
 ## Google Machine Learning Bootcamp 수료 인증
 - [linkedin Profile](https://www.linkedin.com/in/%EC%98%81%EC%A4%80-%EC%A0%95-304428204/)
