@@ -67,7 +67,10 @@ Sophomore 2nd semester
 - Dacon LG 불편예지 예측 대회 (2021.01, 현재 rank: 81/1300)
 
 <br>
-
+## Group Study
+- NLP Research Paper review (2020.08 ~ )
+- Python Algorithm (2020.12 ~ )
+- DeepLearning Math (Linear Algebra, Statistics) (2021.01 ~ )
 
 ## Skills
 
