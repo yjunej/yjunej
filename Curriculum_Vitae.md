@@ -43,8 +43,8 @@ Sophomore 2nd semester
 
 ## Skills
 
-- Programming Language: C, Python
-- Machine Learning Tool: TensorFlow, Keras, PyTorch, R
+- Programming Language: C, Python, R
+- Machine Learning Tool: TensorFlow, Keras, PyTorch
 
 <br>
 
