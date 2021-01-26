@@ -9,7 +9,7 @@
 - Email - hecticlife@g.skku.edu
 - Github - https://github.com/hectic97
 - Blog - https://dlaiml.tistory.com/
-- [자기소개서 pdf](https://github.com/hectic97/hectic97/blob/master/VoyagerX_%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C_%EC%A0%95%EC%98%81%EC%A4%80.pdf)[자기소개서 pdf (google drive)](https://drive.google.com/file/d/1t_kP9-3gNtHUrPTj_cJrgzBN6jQLscY5/view?usp=sharing)[자기소개서 word](https://drive.google.com/file/d/1RblTlY36RPqTCE1K3q7X5KcS_hHqIgNA/view?usp=sharing)
+- [[자기소개서 pdf]](https://github.com/hectic97/hectic97/blob/master/VoyagerX_%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C_%EC%A0%95%EC%98%81%EC%A4%80.pdf)[[자기소개서 pdf (google drive)]](https://drive.google.com/file/d/1t_kP9-3gNtHUrPTj_cJrgzBN6jQLscY5/view?usp=sharing)[[자기소개서 word]](https://drive.google.com/file/d/1RblTlY36RPqTCE1K3q7X5KcS_hHqIgNA/view?usp=sharing)
 
 ## Google Machine Learning Bootcamp 수료 인증
 - [linkedin Profile](https://www.linkedin.com/in/%EC%98%81%EC%A4%80-%EC%A0%95-304428204/)
