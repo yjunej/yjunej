@@ -10,7 +10,7 @@
 
 ### Sungkyunkwan University
 
-Double Major in System Management Engineering and Computer Science  
+Double Major in System Management Engineering and Computer Science
 Mar 2016 – current Senior 1th semester
 Expected graduation date - Feb 2022
 
