@@ -51,8 +51,6 @@ Sophomore 2nd semester
 - 데이터 분석 준전문가 ADsP (2020.08)
 - Tensorflow Developer Certification (2021.01)
 
-##
-
 ## Project & Competition
 - [SKKU Cafe Rating Web (2019.09)](https://github.com/hectic97/SKKU-Cafe-Web/blob/master/README.md)
 - [Dacon 천체 유형 분류 대회 (2020.02, rank: 상위 19%)](https://github.com/hectic97/Trace/tree/master/Data_AI_Competition/SDSS)
@@ -66,7 +64,7 @@ Sophomore 2nd semester
 - [빅콘테스트: SARIMAX 시계열 예측과 머신러닝 모델의 특성 중요도를 활용한 코로나 시대 위험 산업군 도출 (2021.01)](https://github.com/hectic97/Kaggle_Competition/blob/master/bigcontest2020/AOAS_MAIN_PDF.pdf)
 - Dacon LG 불편예지 예측 대회 (2021.01, 현재 rank: 81/1300)
 
-<br>
+
 ## Group Study
 - NLP Research Paper review (2020.08 ~ )
 - Python Algorithm (2020.12 ~ )
