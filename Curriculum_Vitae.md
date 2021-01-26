@@ -12,7 +12,7 @@
 
 Double Major in System Management Engineering and Computer Science  
 Mar 2016 – current Senior 1th semester
-expected graduation date - Feb 2022
+Expected graduation date - Feb 2022
 
 - Cumulative GPA: 3.76 / 4.5
 - 1st Major, System Management Engineering GPA: 4.0 / 4.5
