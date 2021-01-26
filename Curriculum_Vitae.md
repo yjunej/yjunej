@@ -48,10 +48,10 @@ Sophomore 2nd semester
 
 ## Project & Competition
 
-- Dacon 천체 유형 분류 대회 (2020.02)
+- Dacon 천체 유형 분류 대회 (2020.02, rank: 상위 19%)
 - Item-based 추천 알고리즘을 사용한 고령층을 위한 국내영화 추천 시스템 (2020.03)
 - PoAIt (언어모델을 활용한 한국 시를 쓰는 AI 시인) (2020.04)
-- SKKU AI-Project Image Classification (1st place) (2020.06) 
+- SKKU AI-Project Image Classification (rank: 1/44) (2020.06) 
 - 2020 SKT 행복 인사이트 (2020.06)
 - 2020 AngelHack Seoul Hackaton: 해커톤 대상 온라인 자동 팀매칭 솔루션 (2020.06)
 - Kaggle Siim Competition
