@@ -9,7 +9,7 @@
 - Email - hecticlife@g.skku.edu
 - Github - https://github.com/hectic97
 - Blog - https://dlaiml.tistory.com/
-- 자기소개서 
+- [자기소개서](https://github.com/hectic97/hectic97/blob/master/VoyagerX_%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C_%EC%A0%95%EC%98%81%EC%A4%80.pdf)
 
 ## Google Machine Learning Bootcamp 수료 인증
 - [linkedin Profile](https://www.linkedin.com/in/%EC%98%81%EC%A4%80-%EC%A0%95-304428204/)
