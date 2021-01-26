@@ -1,4 +1,4 @@
-# Curriculum Vitae
+# Curriculum Vitae (Voyager X Internship)
 
 ## Personal Data
 - Name - 정영준 (Young-June Jung)
@@ -7,6 +7,12 @@
 - Email - hecticlife@g.skku.edu
 - Github - https://github.com/hectic97
 - Blog - https://dlaiml.tistory.com/
+
+## Google Machine Learning Bootcamp 수료 인증
+- [linkedin Profile](https://www.linkedin.com/in/%EC%98%81%EC%A4%80-%EC%A0%95-304428204/)
+- [Tensorflow Developer Certificate](https://www.credential.net/7cf97353-1502-4889-982b-da9be70bdec9)
+- [Coursera DeepLearning.ai](https://www.coursera.org/account/accomplishments/specialization/certificate/7W5M8HGKST72)
+
 
 ## Education
 
