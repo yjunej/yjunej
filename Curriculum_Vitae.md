@@ -54,7 +54,7 @@ Sophomore 2nd semester
 - SKKU AI-Project Image Classification (rank: 1/44) (2020.06) 
 - 2020 SKT 행복 인사이트 (2020.06)
 - 2020 AngelHack Seoul Hackaton: 해커톤 대상 온라인 자동 팀매칭 솔루션 (2020.06)
-- Kaggle Siim Competition
+- Kaggle Siim Competition (rank: 1770/3308 2020.08)
 - 빅콘테스트: SARIMAX 시계열 예측과 머신러닝 모델의 특성 중요도를 활용한 코로나 시대 위험 산업군 도출 (2021.01)
 - Dacon LG 불편예지 예측 대회 (2021.01, 현재 rank: 81/1300)
 
