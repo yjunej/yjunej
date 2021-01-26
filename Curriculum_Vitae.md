@@ -10,6 +10,9 @@
 
 ## Education
 
+### Goyang foreign language high school
+Mar 2013 ~ Feb 2016
+
 ### Sungkyunkwan University
 
 Double Major in System Management Engineering and Computer Science<br>
@@ -47,6 +50,8 @@ Sophomore 2nd semester
 
 - 데이터 분석 준전문가 ADsP (2020.08)
 - Tensorflow Developer Certification (2021.01)
+
+##
 
 ## Project & Competition
 - SKKU Cafe Rating Web (2019.09)
