@@ -62,7 +62,7 @@ Sophomore 2nd semester
 - [2020 SKT 행복 인사이트 (2020.06)](https://github.com/hectic97/Trace/blob/master/Data_AI_Competition/AOAS_SK_insight.pdf)
 - [2020 AngelHack Seoul Hackaton: 해커톤 대상 온라인 자동 팀매칭 솔루션 (2020.06)](https://github.com/hectic97/AngelHack_web)
 - Kaggle Siim Competition (rank: 1770/3308 2020.08)
-- [Pytorch DCGAN (2020.12)]
+- [Pytorch DCGAN (2020.12)](https://github.com/hectic97/DCGAN-pytorch)
 - [빅콘테스트: SARIMAX 시계열 예측과 머신러닝 모델의 특성 중요도를 활용한 코로나 시대 위험 산업군 도출 (2021.01)](https://github.com/hectic97/Kaggle_Competition/blob/master/bigcontest2020/AOAS_MAIN_PDF.pdf)
 - Dacon LG 불편예지 예측 대회 (2021.01, 현재 rank: 81/1300)
 
