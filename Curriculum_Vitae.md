@@ -82,7 +82,7 @@ Sophomore 2nd semester
 
 ## Skills
 - Machine Learning - Vision, NLP
-- System Design
+- Service Design
 - Programming Language: C, Python, R
 - Machine Learning Tool: TensorFlow, Keras, PyTorch
 
