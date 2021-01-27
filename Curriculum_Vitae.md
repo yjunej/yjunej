@@ -80,9 +80,11 @@ Sophomore 2nd semester
 - DeepLearning Math (Linear Algebra, Statistics) (2021.01 ~ )
 
 ## Skills
-
+- Machine Learning - Vision, NLP
+- System Design
 - Programming Language: C, Python, R
 - Machine Learning Tool: TensorFlow, Keras, PyTorch
+
 
 <br>
 
