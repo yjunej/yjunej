@@ -72,7 +72,7 @@ Sophomore 2nd semester
 - Kaggle Siim Competition (rank: 1770/3308 2020.08)
 - [Pytorch DCGAN (2020.12)](https://github.com/hectic97/DCGAN-pytorch)
 - [빅콘테스트: SARIMAX 시계열 예측과 머신러닝 모델의 특성 중요도를 활용한 코로나 시대 위험 산업군 도출 (2021.01)](https://github.com/hectic97/Kaggle_Competition/blob/master/bigcontest2020/AOAS_MAIN_PDF.pdf)
-- Dacon LG 불편예지 예측 대회 (2021.01, 현재 rank: 6/1347 team)
+- Dacon LG 불편예지 예측 대회  (2021.01, 현재 TOP 20, 본선 진출)
 
 
 ## Group Study
