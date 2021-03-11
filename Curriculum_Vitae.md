@@ -1,5 +1,4 @@
-# Curriculum Vitae (Voyager X Internship)
-
+# Curriculum Vitae 
 
 
 ## Personal Data
