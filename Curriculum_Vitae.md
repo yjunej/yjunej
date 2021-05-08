@@ -55,7 +55,7 @@ Sophomore 2nd semester
 - 성균관대학교 성대한 EPT 창업 동아리 ( 2020.10 ~ 2021.01 )
 - LINC 사업단 창업 동아리 (2020.09 ~ 2020.12 )
 - WISET 성균관대학교 나만의 AI 스피커 만들기 ( 2020. 11 )
-- NAVER Connect AI Tech Boostcamp (2021.01 ~ 2021.06 )
+- NAVER Connect AI Tech Boostcamp (2021.01 ~ 2021.05 )
 
 
 ## Certification
