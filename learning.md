@@ -1,7 +1,6 @@
 # Book & Lecture
 
 ## Math
-### school
 - 미분적분학 I, II
 - 공학수학 I, II
 - 선형대수학
