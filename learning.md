@@ -39,4 +39,7 @@
 - TensorFlow Developer / Coursera
 - Generative Adversarial Networks / Coursera
 
-
+## Program
+- Google Machine Learning Bootcamp 
+- Naver Boostcamp AI Tech 
+- 42 Seoul
