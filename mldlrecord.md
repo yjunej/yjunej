@@ -38,7 +38,8 @@
 - 인공지능 및 기계학습 개론 1 / KOCW
 - TensorFlow Developer / Coursera
 - Generative Adversarial Networks / Coursera
-
+- Linear Algebra / Gilbert Strang
+- 
 ## Program
 - Google Machine Learning Bootcamp 
 - Naver Boostcamp AI Tech 
