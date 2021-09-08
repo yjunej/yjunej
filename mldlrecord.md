@@ -44,3 +44,4 @@
 - Google Machine Learning Bootcamp 
 - Naver Boostcamp AI Tech 
 - 42 Seoul
+- 성균관대학교 LINE 창업지원단
