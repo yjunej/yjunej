@@ -2,8 +2,8 @@
 
 
 ## Personal Data
-- Name - 정영준 (Young-June Jung)
-- Birth Date - 11/11/1997 (25 years old)
+- Name - 정영준 (Youngjune Jeong)
+- Birth Date - 11/11/1997 
 - Contact - 010-8642-3859
 - Email - jeong.yjune@gmail.com
 - Github - https://github.com/yjunej
