@@ -5,7 +5,7 @@
 - Name - 정영준 (Young-June Jung)
 - Birth Date - 11/11/1997 (25 years old)
 - Contact - 010-8642-3859
-- Email - hecticlife@g.skku.edu
+- Email - jeong.yjune@gmail.com
 - Github - https://github.com/yjunej
 - Blog - https://dlaiml.tistory.com/
 
