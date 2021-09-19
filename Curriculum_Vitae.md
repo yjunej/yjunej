@@ -97,7 +97,7 @@ Sophomore 2nd semester
 - Python Algorithm (2020.12 ~ 2021.04)
 - Basic DeepLearning Math (Linear Algebra, Statistics) (2021.01 ~ 2021.03)
 - cs231n, Full Stack Deeplearning, Linear Algebrea(gilbert strang) at VoyagerX (2021.08 ~ )
--
+
 ## Skills
 - Machine Learning
 - Deep Learning
