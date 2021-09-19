@@ -49,9 +49,9 @@ Sophomore 2nd semester, Junior 2nd semester
 - In recognition of high scholastic achievement
 
 
-## Experience
-- 창업(오픈마켓 채널 및 아이템 추천 솔루션) (2021.02 ~ 2021.07)
-- VoyagerX 딥러닝 인턴 개발자, TEAM Ownglyph (2021.07 ~ )
+## Work Experience
+- 스타트업 창업 (오픈마켓 채널 및 아이템 추천 솔루션) (2021.02 ~ 2021.07)
+- VoyagerX 딥러닝 인턴 개발자, team Ownglyph (2021.07 ~ )
 
 
 ## Program
@@ -62,7 +62,7 @@ Sophomore 2nd semester, Junior 2nd semester
 - LINC 사업단 창업지원사업 선정 (2020.09 ~ 2020.12 )
 <!-- - WISET 성균관대학교 나만의 AI 스피커 만들기 ( 2020. 11 ) -->
 - NAVER Connect AI Tech Boostcamp (2021.01 ~ 2021.05 )
-- 소프트웨어마에스트로 지속성장지원 산업 선정
+- 소프트웨어마에스트로 지속성장지원 산업 선정 ( 2021.02 )
 
 
 
