@@ -45,7 +45,7 @@ Expected graduation date - Feb 2022<br>
 ### Dean’s List Award
 
 Department of Engineering, Sungkyunkwan University   
-Sophomore 2nd semester
+Sophomore 2nd semester, Junior 2nd semester
 - In recognition of high scholastic achievement
 
 
