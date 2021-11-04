@@ -11,7 +11,7 @@
 
 
 ## Google Machine Learning Bootcamp 수료 인증
-- [linkedin Profile](www.linkedin.com/in/youngjune-jeong-304428204)
+- [linkedin Profile](https://www.linkedin.com/in/youngjune-jeong-304428204)
 - [Tensorflow Developer Certificate](https://www.credential.net/7cf97353-1502-4889-982b-da9be70bdec9)
 - [Coursera DeepLearning.ai](https://www.coursera.org/account/accomplishments/specialization/certificate/7W5M8HGKST72)
 
