@@ -60,9 +60,9 @@ Sophomore 2nd semester, Junior 2nd semester
 - Google Machine Learning Bootcamp ( 2020.10 ~ 2021.01 )
 - 성균관대학교 성대한 EPT 창업지원사업 선정 ( 2020.10 ~ 2021.01 )
 - LINC 사업단 창업지원사업 선정 (2020.09 ~ 2020.12 )
-<!-- - WISET 성균관대학교 나만의 AI 스피커 만들기 ( 2020. 11 ) -->
 - NAVER Connect AI Tech Boostcamp (2021.01 ~ 2021.05 )
 - 소프트웨어마에스트로 지속성장지원 산업 선정 ( 2021.02 )
+<!-- - WISET 성균관대학교 나만의 AI 스피커 만들기 ( 2020. 11 ) -->
 
 
 
@@ -89,8 +89,9 @@ Sophomore 2nd semester, Junior 2nd semester
 <!-- - (https://github.com/hectic97/AngelHack_web) -->
 - Kaggle Siim Competition (2020.08)
 <!-- - 빅콘테스트: SARIMAX 시계열 예측과 머신러닝 모델의 특성 중요도를 활용한 코로나 시대 위험 산업군 도출 (2021.01)(https://github.com/hectic97/Kaggle_Competition/blob/master/bigcontest2020/AOAS_MAIN_PDF.pdf) -->
-- Dacon LG 불편예지 예측 대회  (2021.01,in top 20 본선 진출)
-
+- LG 불편예지 예측 대회  (2021.01,in top 20 본선 진출)
+- 작물 병해 분류 AI 경진대회 (2021.10, 2nd place, (2/175))
+- 주식 종료 가격 예측 경진대회 (2021.11, 2nd place, (2/672))
 
 ## Group Study
 - NLP Research Paper review (2020.08 ~ 2021.06)
