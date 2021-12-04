@@ -90,8 +90,11 @@ Sophomore 2nd semester, Junior 2nd semester
 - Kaggle Siim Competition (2020.08)
 <!-- - 빅콘테스트: SARIMAX 시계열 예측과 머신러닝 모델의 특성 중요도를 활용한 코로나 시대 위험 산업군 도출 (2021.01)(https://github.com/hectic97/Kaggle_Competition/blob/master/bigcontest2020/AOAS_MAIN_PDF.pdf) -->
 - LG 불편예지 예측 대회  (2021.01,in top 20 본선 진출)
+<!-- - 빅콘테스트: SARIMAX 시계열 예측과 머신러닝 모델의 특성 중요도를 활용한 코로나 시대 위험 산업군 도출 (2021.01)(https://github.com/hectic97/Kaggle_Competition/blob/master/bigcontest2020/AOAS_MAIN_PDF.pdf) -->
 - 작물 병해 분류 AI 경진대회 (2021.10, 2nd place, (2/175))
+<!-- - 빅콘테스트: SARIMAX 시계열 예측과 머신러닝 모델의 특성 중요도를 활용한 코로나 시대 위험 산업군 도출 (2021.01)(https://github.com/hectic97/Kaggle_Competition/blob/master/bigcontest2020/AOAS_MAIN_PDF.pdf) -->
 - 주식 종료 가격 예측 경진대회 (2021.11, 2nd place, (2/672))
+<!-- - 빅콘테스트: SARIMAX 시계열 예측과 머신러닝 모델의 특성 중요도를 활용한 코로나 시대 위험 산업군 도출 (2021.01)(https://github.com/hectic97/Kaggle_Competition/blob/master/bigcontest2020/AOAS_MAIN_PDF.pdf) -->
 
 ## Group Study
 - NLP Research Paper review (2020.08 ~ 2021.06)
