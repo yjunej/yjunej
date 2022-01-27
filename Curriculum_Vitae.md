@@ -51,7 +51,8 @@ Sophomore 2nd semester, Junior 2nd semester
 
 ## Work Experience
 - 스타트업 창업 (오픈마켓 채널 및 아이템 추천 솔루션) (2021.02 ~ 2021.07)
-- VoyagerX 딥러닝 인턴 개발자, team Ownglyph (2021.07 ~ )
+- VoyagerX 딥러닝 인턴 개발자, team Ownglyph (2021.07 ~ 2022.01)
+- VoyagerX 딥러닝 개발자, team Ownglyph (2022.01 ~ )
 
 
 ## Program
