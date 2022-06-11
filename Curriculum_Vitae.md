@@ -63,7 +63,7 @@ Sophomore 2nd semester, Junior 2nd semester
 - LINC 사업단 창업지원사업 선정 (2020.09 ~ 2020.12 )
 - NAVER Connect AI Tech Boostcamp (2021.01 ~ 2021.05 )
 - 소프트웨어마에스트로 지속성장지원 산업 선정 ( 2021.02 )
-<!-- - WISET 성균관대학교 나만의 AI 스피커 만들기 ( 2020. 11 ) -->
+- Pseudo Lab 4기 Kaggle H&M 승격전 ( 2022.02 ~ 2022.05 )
 
 
 
