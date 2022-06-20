@@ -57,11 +57,11 @@ Sophomore 2nd semester, Junior 2nd semester
 
 ## Program
 
-- 42 Seoul Cadet ( 2020.10 ~ 2021.03 )
-- Google Machine Learning Bootcamp ( 2020.10 ~ 2021.01 )
+- 42 Seoul 2기 Cadet ( 2020.10 ~ 2021.03 )
+- Google Machine Learning Bootcamp 1기 ( 2020.10 ~ 2021.01 )
 - 성균관대학교 성대한 EPT 창업지원사업 선정 ( 2020.10 ~ 2021.01 )
 - LINC 사업단 창업지원사업 선정 (2020.09 ~ 2020.12 )
-- NAVER Connect AI Tech Boostcamp (2021.01 ~ 2021.05 )
+- NAVER Connect AI Tech Boostcamp 1기 (2021.01 ~ 2021.05 )
 - 소프트웨어마에스트로 지속성장지원 산업 선정 ( 2021.02 )
 - Pseudo Lab 4기 Kaggle H&M 승격전 ( 2022.02 ~ 2022.05 )
 
@@ -72,6 +72,7 @@ Sophomore 2nd semester, Junior 2nd semester
 - 데이터 분석 준전문가 ADsP (2020.08)
 - Tensorflow Developer Certification (2021.01)
 - TOEIC 900 (2018.08)
+- Google Analytics Individual Qualification(GAIQ) (2022.05)
 
 ## Project & Competition
 <!-- - SKKU Cafe Rating Web (2019.09) -->
@@ -103,6 +104,7 @@ Sophomore 2nd semester, Junior 2nd semester
 - Python Algorithm (2020.12 ~ 2021.04)
 - Basic DeepLearning Math (Linear Algebra, Statistics) (2021.01 ~ 2021.03)
 - cs231n, Full Stack Deeplearning, Linear Algebrea(gilbert strang) at VoyagerX (2021.08 ~ )
+- DL research paper review (2022.04 ~ )
 
 ## Skills
 - Machine Learning
@@ -110,6 +112,7 @@ Sophomore 2nd semester, Junior 2nd semester
 - Service Design
 - Programming Language: Python
 - Machine Learning Tool: TensorFlow, Keras, PyTorch
+- GA, Data analysis
 
 
 <br>
