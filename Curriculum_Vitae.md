@@ -102,7 +102,8 @@ Sophomore 2nd semester, Junior 2nd semester
 - 작물 병해 분류 AI 경진대회 (2021.10, 2nd place, (2/175))
 - 주식 종료 가격 예측 경진대회 (2021.11, 2nd place, (2/672))
 - 병변 검출 AI 경진대회 (2021.12, 6th place, (6/250))
-- Kaggle H&M Personalized Fashion Recommendations, Bronze Medal (2022.05, Top 7%, (190/2952))
+- Kaggle H&M Personalized Fashion Recommendations, Bronze Medal (2022.05, Top 7%, (190/2952), 기여도: 70%)   
+- Kaggle Google AI4Code, Silver Medal (2022.10.26 Private LB 기준, Top 5%, (55/1135), 11월11일 최종 등수 확정, 기여도: 90%)
 
 ## Group Study
 - NLP Research Paper review (2020.08 ~ 2021.06)
