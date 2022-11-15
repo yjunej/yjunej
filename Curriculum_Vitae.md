@@ -80,7 +80,7 @@ Sophomore 2nd semester, Junior 2nd semester
 - Tensorflow Developer Certification (2021.01)
 - TOEIC 900 (2018.08)
 - Google Analytics Individual Qualification(GAIQ) (2022.05)
-- (https://www.kaggle.com/youngjunjung) [Kaggle Competition Expert] (2022.11)
+- [Kaggle Competition Expert](https://www.kaggle.com/youngjunjung) (2022.11)
 
 ## Project & Competition
 <!-- - SKKU Cafe Rating Web (2019.09) -->
