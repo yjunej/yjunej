@@ -110,7 +110,7 @@ Sophomore 2nd semester, Junior 2nd semester
 - NLP Research Paper review (2020.08 ~ 2021.06)
 - Python Algorithm (2020.12 ~ 2021.04)
 - Basic DeepLearning Math (Linear Algebra, Statistics) (2021.01 ~ 2021.03)
-- cs231n, Full Stack Deeplearning, Linear Algebrea(gilbert strang) at VoyagerX (2021.08 ~ )
+- cs231n, Full Stack Deeplearning, Linear Algebrea(gilbert strang) at VoyagerX (2021.08 ~ 2022.01)
 - DL research paper review (2022.04 ~ )
 
 ## Skills
