@@ -2,7 +2,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yjunej&theme=dark&show_icons=true&count_private=true) 
 
-Kaggle Competition Expert
+Kaggle Competition Expert\n
 VoyagerX (21.07 ~ )
 
 * Blog: https://dlaiml.tistory.com
