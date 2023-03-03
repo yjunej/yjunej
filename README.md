@@ -3,7 +3,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yjunej&theme=dark&show_icons=true&count_private=true) 
 
 Kaggle Competition Expert<br />
-VoyagerX (21.07 ~ )
+VoyagerX AI Modeling Engineer(21.07 ~ )
 
 * Blog: https://dlaiml.tistory.com
 * Linkedin: https://www.linkedin.com/in/youngjune-jeong/
