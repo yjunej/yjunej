@@ -37,8 +37,8 @@ Expected graduation date - Aug 2023<br>
 
 ### Sungkyun Engineering Department Scholarship
   
-- Junior 1st semester  - Full tuition
-- Senior 1st semester - 70% tuition
+- Junior 1st semester  - Full tuition scholarship
+- Senior 1st semester - 70% tuition scholarship
 
 
 
