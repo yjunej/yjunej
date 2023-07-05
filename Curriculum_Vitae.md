@@ -50,7 +50,10 @@ Sophomore 2nd semester, Junior 2nd semester
 
 
 ## Work Experience
-- 스타트업 공동 창업 (오픈마켓 채널 및 아이템 추천 솔루션) (2021.02 ~ 2021.07)
+- 스타트업 공동 창업 (오픈마켓 셀러를 위한 채널 및 아이템 추천 솔루션) (2021.02 ~ 2021.07)
+  - 소프트웨어마에스트로 지속성장지원 산업 선정
+  - LINC 사업단 창업지원사업 선정
+  - 성균관대학교 성대한 EPT 창업지원사업 선정
 - VoyagerX 딥러닝 인턴 개발자, team Ownglyph (2021.07 ~ 2022.01)
   -  Linux 환경에서 Pytorch, TF2 사용하여 Few-shot Font generation model 연구
   -  폰트 도메인 딥러닝 연구(Few-shot font generation, svg vector generation, Font impression labeling) 흐름 팔로업 및 최신논문 구현 및 실험 
