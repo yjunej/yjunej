@@ -84,7 +84,6 @@ Sophomore 2nd semester, Junior 2nd semester
 
 - 데이터 분석 준전문가 ADsP (2020.08)
 - Tensorflow Developer Certification (2021.01)
-- TOEIC 900 (2018.08)
 - Google Analytics Individual Qualification(GAIQ) (2022.05)
 - [Kaggle Competition Expert](https://www.kaggle.com/youngjunjung) (2022.11)
 
