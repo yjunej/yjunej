@@ -59,11 +59,11 @@ Sophomore 2nd semester, Junior 2nd semester
   -  폰트 도메인 딥러닝 연구(Few-shot font generation, svg vector generation, Font impression labeling) 흐름 팔로업 및 최신논문 구현 및 실험 
 - VoyagerX 딥러닝 개발자, team Ownglyph (2022.01 ~ )
   - https://www.ownglyph.com/ 인공지능 폰트 생성 B2C 서비스 온글잎 런칭
-  - 서비스를 위한 모델 연구부터 B2C 인공지능 서비스 릴리즈 경험
+  - 서비스를 위한 모델 연구부터 B2C 인공지능 서비스 릴리즈, 운영까지 경험
   - AWS 인프라 설계 및 구축 담당 (lambda, s3, sqs)
   - Docker, onnx runtime, tf-lite 활용하여 서비스에 필요한 여러 딥러닝 모델 경량화 및 serving
   - GTM, GA4, Meta Pixel, Google ads 초기 세팅 / 광고, 데이터 분석 담당으로 서비스에 의미있는 index 도출 및 개선
-  - Generative Model 딥러닝 연구 (Few-shot font generation, svg vector generation, Font impression labeling) 흐름 팔로업 및 최신논문 구현 및 실험 
+  - 메인 생성모델 개선을 위한 Generative Model 딥러닝 연구, 개발 총괄
 
 
 ## Program
