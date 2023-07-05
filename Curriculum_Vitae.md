@@ -8,6 +8,8 @@
 - Email - jeong.yjune@gmail.com
 - Github - https://github.com/yjunej
 - Blog - https://dlaiml.tistory.com/
+- Kaggle - https://www.kaggle.com/youngjunjung
+- Dacon - https://dacon.io/myprofile/402215/home
 
 
 ## Google Machine Learning Bootcamp 수료 인증
