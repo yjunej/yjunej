@@ -111,6 +111,7 @@ Sophomore 2nd semester, Junior 2nd semester
 - 병변 검출 AI 경진대회 (2021.12, 6th place, (6/250))
 - Kaggle H&M Personalized Fashion Recommendations, Bronze Medal (2022.05, Top 7%, (190/2952))   
 - Kaggle Google AI4Code, Silver Medal (2022.11.11, Top 5%, (55/1135))
+- AI OCR 챌린지 (2023.01.15, Top 4%, (16/430))
 
 ## Group Study
 - NLP Research Paper review (2020.08 ~ 2021.06)
