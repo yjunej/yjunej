@@ -1,6 +1,9 @@
 Kaggle Competition Expert (22.10 ~ )<br />
 VoyagerX AI Modeling Engineer(21.07 ~ 23.07)
 
+AI Engineer & Game Client Programmer
+
+
 * Blog: https://dlaiml.tistory.com
 * Linkedin: https://www.linkedin.com/in/youngjune-jeong/
 * CV: https://github.com/yjunej/yjunej/blob/master/Curriculum_Vitae.md
