@@ -12,12 +12,6 @@
 - Dacon - https://dacon.io/myprofile/402215/home
 
 
-## Google Machine Learning Bootcamp 수료 인증
-- [linkedin Profile](https://www.linkedin.com/in/youngjune-jeong-304428204)
-- [Tensorflow Developer Certificate](https://www.credential.net/7cf97353-1502-4889-982b-da9be70bdec9)
-- [Coursera DeepLearning.ai](https://www.coursera.org/account/accomplishments/specialization/certificate/7W5M8HGKST72)
-
-
 ## Education
 
 ### Goyang foreign language high school
@@ -52,20 +46,21 @@ Sophomore 2nd semester, Junior 2nd semester
 
 
 ## Work Experience
-- 스타트업 공동 창업 (오픈마켓 셀러를 위한 채널 및 아이템 추천 솔루션) (2021.02 ~ 2021.07)
+- 스타트업 창업 (오픈마켓 셀러를 위한 채널 및 아이템 추천 솔루션) (2021.02 ~ 2021.07)
   - 소프트웨어마에스트로 지속성장지원 산업 선정
   - LINC 사업단 창업지원사업 선정
   - 성균관대학교 성대한 EPT 창업지원사업 선정
 - VoyagerX 딥러닝 인턴 개발자, team Ownglyph (2021.07 ~ 2022.01)
   -  Linux 환경에서 Pytorch, TF2 사용하여 Few-shot Font generation model 연구
   -  폰트 도메인 딥러닝 연구(Few-shot font generation, svg vector generation, Font impression labeling) 흐름 팔로업 및 최신논문 구현 및 실험 
-- VoyagerX 딥러닝 개발자, team Ownglyph (2022.01 ~ )
+- VoyagerX 딥러닝 개발자, team Ownglyph (2022.01 ~ 2023.08)
   - https://www.ownglyph.com/ 인공지능 폰트 생성 B2C 서비스 온글잎 런칭
   - 서비스를 위한 모델 연구부터 B2C 인공지능 서비스 릴리즈, 운영까지 경험
   - AWS 인프라 설계 및 구축 담당 (lambda, s3, sqs)
   - Docker, onnx runtime, tf-lite 활용하여 서비스에 필요한 여러 딥러닝 모델 경량화 및 serving
   - GTM, GA4, Meta Pixel, Google ads 초기 세팅 / 광고, 데이터 분석 담당으로 서비스에 의미있는 index 도출 및 개선
   - 메인 생성모델 개선을 위한 Generative Model 딥러닝 연구, 개발 총괄
+- 학업 및 이커머스 통합 자동화 솔루션 개발 (2023.09 ~ 2024.04)
 
 
 ## Program
@@ -76,7 +71,7 @@ Sophomore 2nd semester, Junior 2nd semester
 - LINC 사업단 창업지원사업 선정 ( 2020.09 ~ 2020.12 )
 - NAVER Connect AI Tech Boostcamp 1기 ( 2021.01 ~ 2021.05 )
 - 소프트웨어마에스트로 지속성장지원 산업 선정 ( 2021.02 )
-- Pseudo Lab 4기 Kaggle H&M 승격전 ( 2022.02 ~ 2022.05 )
+- Pseudo Lab 4기 Kaggle H&M ( 2022.02 ~ 2022.05 )
 
 
 
@@ -111,19 +106,24 @@ Sophomore 2nd semester, Junior 2nd semester
 - Kaggle H&M Personalized Fashion Recommendations, Bronze Medal (2022.05, Top 7%, (190/2952))   
 - Kaggle Google AI4Code, Silver Medal (2022.11.11, Top 5%, (55/1135))
 - AI OCR 챌린지 (2023.01.15, Top 4%, (16/430))
+- Python E-Commerce Automation 통합 솔루션 외주개발 (2024.02, Inventory management system, Post system, Order Data)
+- ProjectVT (2024.05 ~ 언리얼 엔진을 활용한 비주얼 노벨 장르 게임 개발) 
 
 ## Group Study
 - NLP Research Paper review (2020.08 ~ 2021.06)
 - Python Algorithm (2020.12 ~ 2021.04)
 - Basic DeepLearning Math (Linear Algebra, Statistics) (2021.01 ~ 2021.03)
 - cs231n, Full Stack Deeplearning, Linear Algebrea(gilbert strang) at VoyagerX (2021.08 ~ 2022.01)
-- DL research paper review (2022.04 ~ )
-
+- DL research paper review (2022.04 ~ 2023.08)
+- Unreal Engine Basic for AI Engineer (2024.04 ~ )
+  
 ## Skills
 - Machine Learning
 - Deep Learning
-- Service Design
-- Programming Language: Python
+- Game Development
+- Service Design, Marketing, Data Analysis
+- Programming Language: Python, C++
+- Game Development Tool: Unreal Engine
 - Machine Learning Tool: TensorFlow, Keras, PyTorch
 - GA, GTM, Amplitude, Data analysis
 
