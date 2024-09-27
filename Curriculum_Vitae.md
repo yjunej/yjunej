@@ -106,8 +106,8 @@ Sophomore 2nd semester, Junior 2nd semester
 - Kaggle H&M Personalized Fashion Recommendations, Bronze Medal (2022.05, Top 7%, (190/2952))   
 - Kaggle Google AI4Code, Silver Medal (2022.11.11, Top 5%, (55/1135))
 - AI OCR 챌린지 (2023.01.15, Top 4%, (16/430))
-- Python E-Commerce Automation 통합 솔루션 외주개발 (2024.02, Inventory management system, Post system, Order Data)
-- ProjectVT (2024.05 ~ 언리얼 엔진을 활용한 비주얼 노벨 장르 게임 개발) 
+- Python E-Commerce Automation 통합 솔루션 외주개발 (2023.11 ~ 2024.04, Inventory management system, Post system, Order Data)
+- Project ASR (2024.08 ~ )
 
 ## Group Study
 - NLP Research Paper review (2020.08 ~ 2021.06)
