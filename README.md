@@ -1,7 +1,13 @@
-Kaggle Competition Expert (22.10 ~ )<br />
-VoyagerX AI Modeling Engineer(21.07 ~ 23.07)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjunej&show_icons=true&theme=cobalt)
 
 AI Engineer & Game Client Programmer
+
+Game Programmer & AI Engineer
+
+Kaggle Competition Expert
+VoyagerX AI Modeling Engineer(21.07 ~ 23.07)
+
+
 
 
 * Blog: https://dlaiml.tistory.com
