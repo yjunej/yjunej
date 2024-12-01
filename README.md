@@ -1,4 +1,4 @@
-![yjunej's GitHub stats](https://github-readme-stats-yjunejs-projects.vercel.app/api?username=yjunej&show_icons=true&show_private=true)
+![yjunej's GitHub stats](https://github-readme-stats-woad-ten-71.vercel.app/api?username=yjunej&show_icons=true&show_private=true)
 
 AI Engineer & Game Client Programmer
 
