@@ -20,10 +20,9 @@ Mar 2013 ~ Feb 2016
 ### Sungkyunkwan University
 
 Double Major in System Management Engineering and Computer Science<br>
-Mar 2016 ~ Feb 2024<br>
-Expected graduation date - Feb 2024<br>
+Mar 2016 ~ Aug 2024<br>
 
-- Cumulative GPA: 3.76 / 4.5
+- Cumulative GPA: 3.77 / 4.5
 - 1st Major, System Management Engineering GPA: 4.0 / 4.5
 - 2nd Major, Computer Science GPA: 4.21 / 4.5
 
@@ -120,11 +119,11 @@ Sophomore 2nd semester, Junior 2nd semester
 ## Skills
 - Machine Learning
 - Deep Learning
-- Game Development
+- Game Developmen
 - Service Design, Marketing, Data Analysis
 - Programming Language: Python, C++
-- Game Development Tool: Unreal Engine
-- Machine Learning Tool: TensorFlow, Keras, PyTorch
+- Game Dev: Unreal Engine
+- ML/AI: TensorFlow, Keras, PyTorch
 - GA, GTM, Amplitude, Data analysis
 
 
