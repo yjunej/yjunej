@@ -5,6 +5,7 @@ AI Engineer & Game Client Programmer
 Game Programmer & AI Engineer
 
 Kaggle Competition Expert
+
 VoyagerX AI Modeling Engineer(21.07 ~ 23.07)
 
 
