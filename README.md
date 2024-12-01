@@ -1,5 +1,5 @@
-![yjunej's GitHub stats](https://github-readme-stats-woad-ten-71.vercel.app/api?username=yjunej&show_icons=true&show_private=true&theme=dracula)
-
+![yjunej's GitHub stats](https://github-readme-stats-woad-ten-71.vercel.app/api?username=yjunej&show_icons=true&show_private=true&theme=merko)
+dracula
 AI Engineer & Game Client Programmer
 
 Game Programmer & AI Engineer
