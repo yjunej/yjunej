@@ -1,4 +1,4 @@
-![yjunej's GitHub stats](https://github-readme-stats-woad-ten-71.vercel.app/api?username=yjunej&show_icons=true&show_private=true&theme=tokyonight)
+![yjunej's GitHub stats](https://github-readme-stats-woad-ten-71.vercel.app/api?username=yjunej&show_icons=true&show_private=true&theme=dracula)
 
 AI Engineer & Game Client Programmer
 
