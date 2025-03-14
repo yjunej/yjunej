@@ -4,6 +4,8 @@ Game Programmer & AI Enginner<br/>
 
 Kaggle Competition Expert<br/>
 VoyagerX AI Modeling Engineer(21.07 ~ 23.07)<br/>
+PearlAbyss Game Programmer(25.01 ~ )<br/>
+
 
 ![yjunej's GitHub stats](https://github-readme-stats-woad-ten-71.vercel.app/api?username=yjunej&show_icons=true&show_private=true&theme=merko)
 
