@@ -1,6 +1,6 @@
 
 
-Game Programmer & AI Enginner<br/>
+Game Developer & AI Enginner<br/>
 
 Kaggle Competition Expert<br/>
 VoyagerX AI Modeling Engineer(21.07 ~ 23.07)<br/>
