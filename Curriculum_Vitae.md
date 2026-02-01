@@ -60,7 +60,7 @@ Sophomore 2nd semester, Junior 2nd semester
   - GTM, GA4, Meta Pixel, Google ads 초기 세팅 / 광고, 데이터 분석 담당으로 서비스에 의미있는 index 도출 및 개선
   - 메인 생성모델 개선을 위한 Generative Model 딥러닝 연구, 개발 총괄
 - 학업 & 의류회사 이커머스 통합 자동화 솔루션 개발 (2023.09 ~ 2024.04)
-- PearlAbyss 클라이언트 프로그래머 (2025.01 ~ )
+- PearlAbyss 게임 클라이언트 프로그래머 (2025.01 ~ )
 
 
 ## Program
